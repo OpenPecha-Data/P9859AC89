@@ -1,0 +1,32 @@
+id: P9859AC89
+initial_creation_type: ocr
+source_metadata:
+  work_id: http://purl.bdrc.io/resource/WA1CZ2408
+  instance_id: http://purl.bdrc.io/resource/IE1CZ2408
+  collection_id: http://purl.bdrc.io/resource/PR0ET009
+  language_id: http://purl.bdrc.io/resource/LangBo
+  title:
+    en-x-mixed:
+    - Kloṅ-chen sñiṅ thig gi blo sbyoṅ źag brgyaʼi sgom rim Rin chen baṅ mdzod thar
+      baʼi them skas źes bya ba bźugs so /Kun-dgaʼ-bstan-ʼdzin nas brtsams.
+    bo:
+    - སྙིང་ཐིག་ཞག་བརྒྱའི་སྒོམ་རིམ།
+  alt_title: {}
+  author: http://purl.bdrc.io/resource/P1CZ2411
+  publisher: UCB-OCR
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  volumes:
+    9242168f426b44f7a3475436ffd449a7:
+      title: པོད ༡་སྙིང་ཐིག་ཞག་བརྒྱའི་སྒོམ་རིམ
+      volume_number: 1
+      base_file: UT1CZ2408_I1CZ2462_0000.txt
+      reference: http://purl.bdrc.io/resource/VLC90DEE1838472154
+      image_group: I1CZ2462
+      quality: Low
+  reproductionOf:
+  - http://purl.bdrc.io/resource/MW1CZ2408
+  - http://purl.bdrc.io/resource/W1CZ2408
+  ocr_software: Namsel
+created_at: '2021-12-22T10:25:10.693785'
+last_modified_at: '2021-12-22T10:25:10.693793'
